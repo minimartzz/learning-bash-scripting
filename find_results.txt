@@ -1,0 +1,5 @@
+./logfiles/file2.log
+./logfiles/file2.log.tar.gz
+./logfiles/file3.log
+./logfiles/file3.log.tar.gz
+./logfiles/file_1
